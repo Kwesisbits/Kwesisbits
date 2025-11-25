@@ -1,6 +1,12 @@
+<div align="center">
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
+</div>
+---
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 **AI Engineer & Data Scientist**
+
+---
 
 - 🌥️ Currently learning **AWS Cloud**, **Advanced Agentic AI Workflows**, and **MCP**
 - 📚 Rigorous continuous learner  
@@ -21,7 +27,6 @@
 
 ## 🔧 **Languages & Tools**
 
-### **AI / Machine Learning / RAG / Frameworks**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55px"/>
@@ -30,19 +35,11 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55px"/>
   <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="55px"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chainlink.svg" width="55px"/> <!-- symbolic RAG -->
-</p>
-
-### **Databases / Cloud / DevOps**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55px"/>
   <img src="https://avatars.githubusercontent.com/u/13823028?s=200&v=4" width="55px"/> <!-- Snowflake -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55px"/>
-</p>
-
-### **Web / APIs / Visualization**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55px"/>
