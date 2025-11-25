@@ -1,6 +1,4 @@
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-<div>
+<img src="profile_image.png" align="right" width="350" />
 
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
 
@@ -9,22 +7,11 @@
 - 🌥️ Currently learning **AWS Cloud**, **Advanced Agentic AI Workflows**, and **MCP**
 - 📚 Rigorous continuous learner  
 - 🤖 Passionate about **AI automation** and industry-level productivity systems  
-- 💬 Ask me about **Agentic AI**, **Portfolio Construction**, **Risk Management with Python**, or the winner of your favorite football league  
+- 💬 Ask me about **Agentic AI**, **Portfolio Construction**, **Risk Management with Python**,
+   or the winner of your favorite football league  
 - 📫 Email: **nanaamponsah391@gmail.com**  
 - 🗂️ Projects: _link coming today_  
 - 🛸 **Fun fact:** I'm an **extra-terrestrial being**—pretty sure of it  
-
-</div>
-
-<img src="profile_image.png" width="330" style="margin-left: 20px; border-radius: 12px;"/>
-
-</div>
-
-
-## 🌐 Connect With Me  
-<a href="https://www.linkedin.com/in/nana-kwesi-amponsah/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px"/>
-</a>
 
 ---
 
