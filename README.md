@@ -1,6 +1,7 @@
 <div align ="cneter">
    
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
+
 </div>
 
 **AI Engineer & Data Scientist**
