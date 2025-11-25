@@ -1,8 +1,8 @@
-<img src="profile_image.png" align="right" width="350" />
 
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
 
 **AI Engineer & Data Scientist**
+<img src="profile_image.png" align="right" width="350" />
 
 - 🌥️ Currently learning **AWS Cloud**, **Advanced Agentic AI Workflows**, and **MCP**
 - 📚 Rigorous continuous learner  
