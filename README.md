@@ -1,11 +1,11 @@
 <div align="center">
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
 </div>
+
 ---
-<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 **AI Engineer & Data Scientist**
-
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 ---
 
 - 🌥️ Currently learning **AWS Cloud**, **Advanced Agentic AI Workflows**, and **MCP**
