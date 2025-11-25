@@ -1,4 +1,4 @@
-<div align ="cneter">
+<div align ="center">
    
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
 
