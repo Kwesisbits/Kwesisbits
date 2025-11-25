@@ -1,5 +1,7 @@
-
+<div align ="cneter">
+   
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
+</div>
 
 **AI Engineer & Data Scientist**
 <img src="profile_image.png" align="right" width="350" />
