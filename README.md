@@ -14,7 +14,12 @@
 - 🛸 **Fun fact:** I'm an **extra-terrestrial being**—pretty sure of it  
 
 ---
+## 🌐 Connect With Me  
+<a href="https://www.linkedin.com/in/nana-kwesi-amponsah/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px"/>
+</a>
 
+---
 ## 🔧 **Languages & Tools**
 
 <p>
@@ -23,12 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" width="55px"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55px"/>
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="55px"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chainlink.svg" width="55px"/> <!-- symbolic RAG -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55px"/>
   <img src="https://avatars.githubusercontent.com/u/13823028?s=200&v=4" width="55px"/> <!-- Snowflake -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px"/>
