@@ -1,16 +1,10 @@
-<div align="center">
-  
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+<div>
+
 ## Hi there 👋, I'm **Nana Kwesi Amponsah**
-</div>
 
-<p align="right">
-  <img src="profile_image.png" width="500">
-</p>
-
-<div align="center">
-  
 **AI Engineer & Data Scientist**
-</div>
 
 - 🌥️ Currently learning **AWS Cloud**, **Advanced Agentic AI Workflows**, and **MCP**
 - 📚 Rigorous continuous learner  
@@ -20,7 +14,12 @@
 - 🗂️ Projects: _link coming today_  
 - 🛸 **Fun fact:** I'm an **extra-terrestrial being**—pretty sure of it  
 
----
+</div>
+
+<img src="profile_image.png" width="330" style="margin-left: 20px; border-radius: 12px;"/>
+
+</div>
+
 
 ## 🌐 Connect With Me  
 <a href="https://www.linkedin.com/in/nana-kwesi-amponsah/">
