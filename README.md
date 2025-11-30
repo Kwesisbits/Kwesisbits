@@ -13,7 +13,7 @@
 - 💬 Ask me about **Agentic AI**, **Portfolio Construction**, **Risk Management with Python**,
    or the winner of your favorite football league  
 - 📫 Email: **nanaamponsah391@gmail.com**  
-- 🗂️ Projects: <a href="https://kwesisportfolio.vercel.app/">
+- 🗂️ Projects: "https://kwesisportfolio.vercel.app/"
 - 🛸 **Fun fact:** I'm an **extra-terrestrial being**—pretty sure of it  
 
 ---
