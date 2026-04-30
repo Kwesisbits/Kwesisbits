@@ -4,14 +4,14 @@
 
 </div>
 
-**AI Engineer & Data Scientist**
+**AI-Native Systems Architect**
 <img src="profile_image.png" align="right" width="350" />
 
-- 🌥️ Currently learning **AWS Cloud**, **Advanced Agentic AI Workflows**, and **MCP**
+- 🌥️ Currently learning **Cloud Computing**, **Advanced Agentic AI Workflows**, and **MCP**
 - 📚 Rigorous continuous learner  
-- 🤖 Passionate about **AI automation** and industry-level productivity systems  
-- 💬 Ask me about **Agentic AI**, **Portfolio Construction**, **Risk Management with Python**,
-   or the winner of your favorite football league  
+- 🤖 Passionate about **System Design** and inteliigent software systems  
+- 💬 Ask me about **Agentic AI**, **Pragmatic Programming**, **Backend development**,
+   or how to deploy systems securely  
 - 📫 Email: **nanaamponsah391@gmail.com**  
 - 🗂️ Projects: "https://kwesisportfolio.vercel.app/"
 - 🛸 **Fun fact:** I'm an **extra-terrestrial being**—pretty sure of it  
